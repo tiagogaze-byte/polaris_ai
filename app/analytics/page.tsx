@@ -38,7 +38,7 @@ function BarChart({ data, maxVal, color = '#C9A84C', labelKey, valueKey }:
               className="h-full rounded transition-all duration-700"
               style={{
                 width: maxVal > 0 ? `${(item[valueKey] / maxVal) * 100}%` : '0%',
-                background: color === 'multi' ? TOPIC_COLORS[i % TOPIC_COLORS.length] : (color || '#C9A84C'),
+                background: (color === 'multi' ? TOPIC_COLORS[i % TOPIC_COLORS.length] : (color as string)) || '#C9A84C',
                 minWidth: item[valueKey] > 0 ? '4px' : '0',
               }}
             />
