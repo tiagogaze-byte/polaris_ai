@@ -24,7 +24,7 @@ const TOPIC_COLORS = [
 ];
 
 function BarChart({ data, maxVal, color = '#C9A84C', labelKey, valueKey }:
-  { data: any[]; maxVal: number; color?: string; labelKey: string; valueKey: string }) {
+  { data: any[]; maxVal: number; color?: string | string[]; labelKey: string; valueKey: string }) {
   if (!data.length) return <p className="text-polaris-silver/30 text-sm font-body text-center py-8">Sem dados ainda</p>;
   return (
     <div className="space-y-2">
@@ -38,7 +38,7 @@ function BarChart({ data, maxVal, color = '#C9A84C', labelKey, valueKey }:
               className="h-full rounded transition-all duration-700"
               style={{
                 width: maxVal > 0 ? `${(item[valueKey] / maxVal) * 100}%` : '0%',
-                background: Array.isArray(color) ? TOPIC_COLORS[i % TOPIC_COLORS.length] : color,
+                background: color === 'multi' ? TOPIC_COLORS[i % TOPIC_COLORS.length] : (color || '#C9A84C'),
                 minWidth: item[valueKey] > 0 ? '4px' : '0',
               }}
             />
@@ -215,7 +215,7 @@ export default function AnalyticsPage() {
                     Os temas aparecem após as primeiras consultas
                   </p>
                 ) : (
-                  <BarChart data={data.topTopics} maxVal={maxTopic} color={TOPIC_COLORS} labelKey="topic" valueKey="count" />
+                  <BarChart data={data.topTopics} maxVal={maxTopic} color="multi" labelKey="topic" valueKey="count" />
                 )}
               </div>
 
