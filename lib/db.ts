@@ -1,4 +1,8 @@
 import { sql } from '@vercel/postgres';
+// Fallback: Neon injeta DATABASE_URL, @vercel/postgres espera POSTGRES_URL
+if (!process.env.POSTGRES_URL && process.env.DATABASE_URL) {
+  process.env.POSTGRES_URL = process.env.DATABASE_URL;
+}
 export { sql };
 
 export type UserRole = 'admin' | 'manager' | 'client' | 'trial';
