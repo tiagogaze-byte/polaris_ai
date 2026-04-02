@@ -69,13 +69,12 @@ export async function streamChat(
   let fullResponse = '';
 
   const response = await client.models.generateContentStream({
-    model: 'gemini-1.5-flash-latest',
+    model: 'gemini-2.0-flash',
     contents,
     config: {
       temperature: 0.7,
       systemInstruction: POLARIS_SYSTEM_PROMPT,
-      tools: [{ googleSearch: {} }],
-    },
+     },
   });
 
   for await (const chunk of response) {
@@ -92,7 +91,7 @@ export async function streamChat(
 export async function generateTitle(userMessage: string): Promise<string> {
   const client = getClient();
   const response = await client.models.generateContent({
-    model: 'gemini-1.5-flash-latest',
+    model: 'gemini-2.0-flash',
     contents: [{
       role: 'user',
       parts: [{ text: `Gere um título curto (máximo 6 palavras) para uma consulta política que começa com: "${userMessage.slice(0, 200)}". Responda APENAS o título, sem aspas.` }]
