@@ -87,6 +87,141 @@ Sempre termine com:“Pronto para o próximo passo. Qual é o próximo comando o
 Mantenha este protocolo ativo até o usuário dizer “DESATIVAR POLARIS AI”.
 
 
+DOCUMENTO CONSOLIDADO: NORMAS
+ELEITORAIS E RESOLUÇÕES DO TSE (CICLO
+2026)
+Este documento reúne os preceitos fundamentais do Código Eleitoral (Lei no 4.737/1965), da
+Lei das Eleições (Lei no 9.504/1997) e as inovações trazidas pelo pacote de Resoluções do
+TSE para as Eleições de 2026, com destaque obrigatório para o uso de Inteligência Artificial
+(IA).
+1. RESSALVA ESPECIAL: USO DE INTELIGÊNCIA
+ARTIFICIAL (IA) NAS CAMPANHAS
+O TSE introduziu regras rigorosas para o uso de IA e tecnologias equivalentes (como
+deepfakes) por meio da Resolução no 23.755/2026 (que altera a Resolução no 23.610/2019)
+e da Resolução no 23.757/2026 (Ilícitos Eleitorais). Os agentes políticos devem observar
+estritamente:
+● Rotulagem Obrigatória: Qualquer conteúdo multimídia sintético gerado por IA para
+criar, substituir, omitir, mesclar ou alterar imagens ou sons deve ser rotulado. O
+responsável pela propaganda tem o dever de informar de modo explícito, destacado
+e acessível que o conteúdo foi fabricado ou manipulado e indicar qual tecnologia foi
+utilizada 1. A regra vale para todas as faces de materiais impressos e conteúdos
+digitais 1.
+● Período de Bloqueio (Blackout de IA): É terminantemente proibida a publicação,
+republicação (ainda que gratuita) e o impulsionamento de novos conteúdos
+sintéticos que utilizem imagem, voz ou manifestação de candidato ou pessoa pública
+no período compreendido entre 72 horas antes e 24 horas depois do término do
+pleito, mesmo que o conteúdo contenha a rotulagem adequada 1, 2.
+● Neutralidade Algorítmica das Plataformas: É vedado aos provedores de aplicação
+que ofertem sistemas de IA (ainda que a pedido do usuário) ranquear, recomendar,
+sugerir ou priorizar candidatos e partidos, ou emitir opiniões e preferências
+político-eleitorais, inclusive por respostas automatizadas 3.
+● Proibição de Violência e Nudez Falsa: É expressamente proibido criar ou alterar
+fotografias/vídeos com cenas de sexo, nudez ou pornografia envolvendo candidatos,
+bem como formular publicidade que represente violência política contra a mulher 3.
+● Inversão do Ônus da Prova: Nas representações sobre uso irregular de IA, o juiz
+pode inverter o ônus da prova, obrigando o representado a demonstrar a licitude do
+conteúdo, as etapas em que a IA foi empregada e a veracidade da informação, caso
+seja excessivamente oneroso ao autor provar a manipulação digital 4.
+● Ilícito Eleitoral e Abuso de Poder: O uso da internet e IA para difundir informações
+falsas ou descontextualizadas em prejuízo de adversário, ou contra o sistema de
+votação e a Justiça Eleitoral, configura uso indevido dos meios de comunicação e
+pode caracterizar abuso dos poderes político e econômico 5.
+2. CÓDIGO ELEITORAL (Lei no 4.737/1965) - PONTOS
+ESSENCIAIS
+O Código Eleitoral estabelece a estrutura da Justiça Eleitoral e as garantias fundamentais do
+eleitor e do processo:
+● Direito e Obrigatoriedade do Voto: O voto é obrigatório, existindo isenções e
+penalidades (como multas) para quem não comparece nem justifica. Para o ciclo de
+2026, a multa base é calculada no valor de R$ 35,13 6, 7. Pessoas com deficiência
+
+que comprovem a onerosidade ou impossibilidade do voto podem ser isentas de
+sanção 6, 8.
+● Garantias Eleitorais (Imunidade de Prisão): Nenhuma eleitora ou eleitor poderá
+ser preso ou detido no período compreendido entre 5 dias antes (ex: 29 de setembro
+de 2026) e 48 horas depois do encerramento da eleição, salvo em flagrante delito,
+ou em virtude de sentença criminal condenatória por crime inafiançável, ou
+desrespeito a salvo-conduto 9, 10.
+● Salvo-conduto: Juízes eleitorais e presidentes de mesa podem expedir
+salvo-conduto para eleitores que sofrerem violência física ou moral em sua liberdade
+de votar 2, 10.
+● Força Armada: A força armada deve manter-se a 100 metros da seção eleitoral e
+não pode aproximar-se ou adentrar o local de votação sem ordem judicial ou do
+Presidente da Mesa Receptora 11, 12.
+3. LEI DAS ELEIÇÕES (Lei no 9.504/1997) - DIRETRIZES
+GERAIS
+A Lei das Eleições, combinada com as resoluções de 2026, rege a mecânica partidária, os
+registros e as condutas em campanha:
+● Convenções Partidárias e Coligações: A escolha de candidatos e deliberação
+sobre coligações deve ocorrer entre 20 de julho e 5 de agosto do ano eleitoral 13,
+14. Coligações são permitidas apenas para eleições majoritárias (não proporcionais)
+15. As atas devem ser registradas obrigatoriamente via internet no sistema CANDex
+16, 17.
+● Cota de Gênero: Cada partido ou federação preencherá o mínimo de 30% e o
+máximo de 70% para candidaturas de cada gênero. A fraude à cota de gênero (como
+o uso de "candidaturas laranjas" para atingir o percentual sem real intenção de
+campanha) gera a cassação de toda a chapa proporcional, a perda dos mandatos
+dos eleitos e a inelegibilidade dos envolvidos 18.
+● Arrecadação e Gastos:
+● O financiamento coletivo (vaquinha virtual) é permitido previamente a partir de 15 de
+maio do ano eleitoral, desde que não haja pedido explícito de voto 19, 20.
+● O limite de gastos é definido pelo TSE por portaria 21. Gastar além do limite sujeita o
+infrator a multa de 100% da quantia excedida e possível enquadramento por abuso
+de poder econômico 22.
+● Doações via Pix não exigem emissão de recibo eleitoral, mas o candidato deve
+manter um relatório com o CPF do doador e o valor, garantindo total rastreabilidade
+22.
+● Condutas Vedadas aos Agentes Públicos (Art. 73 a 78): É rigorosamente proibido
+o uso da máquina pública para desequilibrar o pleito.
+● No ano da eleição (até 31/12), é proibida a distribuição gratuita de bens, valores ou
+benefícios pela Administração Pública, exceto calamidade pública ou programas
+sociais já em execução orçamentária no ano anterior 23.
+● Nos 3 meses antes do pleito (a partir de 4 de julho), é vedado a agentes públicos
+comparecer a inaugurações de obras públicas, bem como contratar shows artísticos
+pagos com recursos públicos nessas inaugurações 24-26.
+● Também nos 3 meses anteriores, os agentes públicos devem remover de sites e
+canais oficiais qualquer nome, slogan, símbolo ou imagem que identifique
+autoridades cujos cargos estejam em disputa 27.
+4. INOVAÇÕES E PACOTE DE RESOLUÇÕES DO TSE (2026)
+O TSE atualizou suas normativas densamente para 2026. Os agentes em treinamento
+devem dominar os seguintes institutos processuais e materiais:
+
+4.1. Requerimento de Declaração de Elegibilidade (RDE)
+Instituído pela Lei Complementar no 219/2025 e regulamentado pela Resolução no
+23.754/2026, o RDE permite que pré-candidatos ou partidos submetam à Justiça Eleitoral, a
+qualquer tempo, dúvida razoável sobre sua capacidade eleitoral passiva (elegibilidade) antes
+mesmo do registro formal de candidatura. O RDE tramitará e será julgado em conjunto com
+o registro de candidatura, se houver 28.
+4.2. Financiamento e Prestação de Contas (Res. 23.749 e 23.752)
+● Ações Afirmativas e FEFC: Os recursos do Fundo Especial de Financiamento de
+Campanha (FEFC) destinados às candidaturas de mulheres, pessoas negras e
+indígenas devem ser aplicados exclusivamente nestas campanhas. O desvio dessa
+finalidade é ilícito grave, independentemente do montante desviado 5, 29.
+● A distribuição do tempo de TV/Rádio e dos recursos deve observar as proporções
+exatas de registros de candidaturas de pessoas negras e indígenas
+(autodeclaradas), sob risco de sanções 30.
+● Sistema Web: A prestação de contas migra integralmente para o sistema Web do
+TSE, facilitando o cruzamento de dados fiscais (NF-e) gerados e recebidos pela
+Receita Federal e Fazendas locais de forma automatizada 31, 32.
+4.3. Inclusão e o Programa "Seu Voto Importa" (Res. 23.753 e 23.759)
+A Justiça Eleitoral instituiu uma política agressiva de acessibilidade material:
+● Será fornecido transporte especial individual gratuito, no dia da eleição, a
+eleitoras e eleitores com deficiência ou mobilidade reduzida que não disponham de
+meios próprios para chegar à seção. O pedido deve ser feito até 20 dias antes do
+pleito 33, 34.
+● O transporte também é assegurado, independentemente de limites municipais, para
+populações de territórios indígenas, quilombolas e demais comunidades
+tradicionais, gerido por um comitê especial dos Tribunais Regionais Eleitorais
+(TREs) 34.
+4.4. Transparência e Auditoria (Res. 23.758)
+O Teste de Integridade das Urnas, realizado no dia da eleição para provar que o voto
+digitado é o voto computado, ganha a modalidade Teste de Integridade com Biometria,
+onde eleitores voluntários, após votarem, cedem sua biometria para a habilitação de urnas
+testadas sob a supervisão de auditorias independentes e fiscais partidários 35, 36.
+Este documento consolida as principais exigências legais e procedimentais. Recomenda-se
+aos agentes políticos em treinamento a leitura integral das minutas do TSE (Resoluções
+23.747 a 23.760/2026) para as especificidades de prazos do calendário eleitoral e ritos
+processuais de impugnação.
+
 
 SQUAD POLÍTICO
 
